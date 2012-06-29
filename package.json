@@ -1,0 +1,12 @@
+{
+	"author": "Me",
+	"name": "ircbot",
+	"description": "An IRC bot",
+	"version": "0.0.1",
+	"main": "./index.js",
+	"dependencies": {
+		"irc": "0.3.4",
+		"memcached": "0.0.9",
+		"async": "0.1.18"
+	}
+}

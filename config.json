@@ -1,0 +1,9 @@
+{
+	"server": "irc.freenode.org",
+	"channels": "#hop, #hop2, #hop3",
+	"nick": "Roboto",
+	"membase": {
+		"hosts": ["localhost:10000"],
+		"options": {}
+	}
+}
